@@ -4,7 +4,7 @@
 - 👀 I’m interested in web development and enhance good user experience.
 - 🎓 I’m studying Computer & Information Science at The Ohio State University,class of 2024
 - 🎯 My long term goal is to be professional in my field
-- 📫 You can reach me on [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="20em" align="center" alt="Follow VickyWeng on LinkedIn" title="Follow VickyWeng on LinkedIn"/>](www.linkedin.com/in/vicky-weng2001) 
+- 📫 You can reach me on [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="20em" align="center" alt="Follow VickyWeng on LinkedIn" title="Follow VickyWeng on LinkedIn"/>](https://www.linkedin.com/in/vicky-weng2001/) 
 
 ## ⬆ What I'm up to
 
